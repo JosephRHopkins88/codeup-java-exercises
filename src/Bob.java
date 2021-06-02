@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bob {
+public class Bob {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hey, my name's Bob... My mom said you wanted to talk to me, or something... Whatever...");

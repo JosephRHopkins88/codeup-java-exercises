@@ -1,4 +1,4 @@
-package OopLecture;
+package oopLecture;
 
 import java.util.Scanner;
 

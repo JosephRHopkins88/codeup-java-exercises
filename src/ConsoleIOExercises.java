@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class consoleIOExercises {
+public class ConsoleIOExercises {
     public static void main(String[] args) {
         // 1. format floating point numbers
         double pi = 3.14159;

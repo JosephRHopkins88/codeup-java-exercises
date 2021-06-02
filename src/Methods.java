@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class methods {
+public class Methods {
 
     public static void sayHello() {
         System.out.println("Sorry, I'm in a bit of a rush. Have a great day!");

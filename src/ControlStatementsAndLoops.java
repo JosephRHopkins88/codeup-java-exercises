@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class controlStatementsAndLoops {
+public class ControlStatementsAndLoops {
     public static void main(String[] args) {
 
 //        int i = 5;

@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class stringsLecture {
+public class StringsLecture {
     public static void main(String[] args) {
         char character = 'd';
         System.out.println(character == 'd');

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class methodsExercises {
+public class MethodsExercises {
     public static void main(String[] args) {
         System.out.println(factorial(getInteger(0, 20)));
         diceRoll();
