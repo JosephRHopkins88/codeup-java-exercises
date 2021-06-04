@@ -13,8 +13,8 @@ public class CircleApp {
 
         Circle c = new Circle(in.getDouble());
 
-        System.out.println(c.getArea());
-        System.out.println(c.getCircumference());
+        System.out.printf("The area of the circle is: %.2f%n",c.getArea());
+        System.out.printf("The circumference of the circle is: %.2f%n", c.getCircumference());
 
     }
 }
