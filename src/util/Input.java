@@ -14,7 +14,7 @@ public class Input {
         return this.scanner.nextLine();
     }
 
-    public boolean yesNo() {
+    public boolean yesNo(String s) {
         String userInput = this.scanner.nextLine();
         return userInput.trim().equalsIgnoreCase("y") || userInput.trim().equalsIgnoreCase("yes");
     }
@@ -51,8 +51,7 @@ public class Input {
         }
     }
 
-
-
-
-
+    public double getDouble(String s) {
+        return this.scanner.nextDouble();
+    }
 }
