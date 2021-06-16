@@ -26,7 +26,7 @@ public class GradesApplication {
         s2.addGrade(65);
 
         //Create another new student
-        Student s3 = new Student("Dick");
+        Student s3 = new Student("Beth");
         //add 3 grades for this student
         s3.addGrade(100);
         s3.addGrade(50);
@@ -42,7 +42,7 @@ public class GradesApplication {
         //add all four students to the hashmap
         students.put("ghStew", s1);
         students.put("ghChip", s2);
-        students.put("ghDick", s3);
+        students.put("ghBeth", s3);
         students.put("ghLinda", s4);
 
         //get a scanner to process input from the user
